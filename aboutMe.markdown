@@ -1,5 +1,5 @@
 layout: page
-title: "Milanooo"
+title: milano
 permalink: /milano/
 
 <!DOCTYPE html>

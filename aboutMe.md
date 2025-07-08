@@ -1,6 +1,6 @@
 layout: page
 title: "Milanooo"
-permalink: /milano
+permalink: /milano/
 
 <!DOCTYPE html>
 <html lang="fr">
